@@ -1,7 +1,7 @@
 # XHoneY
 Python Honeypot 
 
-# CLOUDKiLL3R SCREENSHOT :
+# XHoneY SCREENSHOT :
 
 ![Alt text](https://preview.ibb.co/joOH0H/XHoneY.png "XHoneY ScreenShoot")
 
