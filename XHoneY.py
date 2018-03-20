@@ -38,7 +38,6 @@ parser = argparse.ArgumentParser(description='[+] XHoneY :)', conflict_handler='
 parser.add_argument('-m', '--message', type=str, help='-m STOP OR --message STOP')
 parser.add_argument('-ip', '--ip', type=str, help='-ip 127.0.0.1 OR --ip 127.0.0.1')
 parser.add_argument('-p', '--port', type=str, help='-p 80 OR --port 80')
-parser.add_argument('-d', '--details', type=str, help='-d 127.0.0.1 OR --details 127.0.0.1')
 args = parser.parse_args()
 
 MESSAGE = args.message
