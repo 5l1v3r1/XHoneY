@@ -51,9 +51,9 @@ if WATCH:
 	print bcolors.X03+ "	[-] Listening to :"
 	print "	[-] HOST = ["+IP+"]"
 	print "	[-] PORT = ["+PORT+"]"
-	print bcolors.X01+"	[+] ==================================== [+]"
-	print bcolors.X02+"	[!]  Attacker Details Saved in LOGS.txt  [!]"	
-	print bcolors.X01+"	[+] ==================================== [+]"
+	print bcolors.X01+"	[+] ======================================= [+]"
+	print bcolors.X02+"	[!]  Attacker Details Saved in LOGS.XHoneY [!]"	
+	print bcolors.X01+"	[+] ======================================= [+]"
 	LisLOGS = open('LOGS.XHoneY', 'a')
 	WatchDOG = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	WatchDOG.bind((IP, int(PORT)))
