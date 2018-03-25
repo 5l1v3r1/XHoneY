@@ -21,11 +21,9 @@ Make Sure The Modules Below Are Installed If NOT > use this command to install o
 
 * argparse
 * socket
-* requests
 * sys
 * time
 
 # Contact : 
 
 Twitter.com/moh_security 
-
